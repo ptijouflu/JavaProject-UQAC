@@ -17,6 +17,9 @@ public class Field {
      * Get courses of the field
      */
     public void GetCoursesList(){
+        /**
+         * A revoir
+         */
         for (String i: courses){
             System.out.println(i);
         }
